@@ -5,17 +5,17 @@
   "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
   "category": "e-learning",
   "credits": "2",
-  "be-key":"0932738"
+  "bekey":"0932738"
 }, {
   "id": 2,
   "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce .",
   "category": "live webinar",
-  "be-key":"0932738"
+  "bekey":"0932738"
   
 }, {
   "id": 3,
   "description": "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo.",
   "category": "e-learning",
   "credits": "2",
-  "be-key":"0932738"
+  "bekey":"0932738"
 }]}
